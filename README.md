@@ -2,7 +2,7 @@
 
 ## About Me 
 - Data scientist pursuing a master's degree from [Penn State](https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-data-analytics-masters-degree). 
-- Displaying Projects I worked on in different repos
+- Displaying Projects I worked on
 
 
 ## Tech Stack 

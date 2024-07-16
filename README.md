@@ -33,17 +33,20 @@ Developed a data warehouse to analyze election contributions in Texas, New York,
 **Outcomes:**
 Revealed significant patterns in contributions, demonstrating Hadoop's efficiency with large data and relational databases' querying power.
 
+**File Reference:**
+- `DB for Presidential data.pdf`
+
 ### Next-Gen Restaurant Management System
 
 **Description:**
-Created a database for a restaurant management system to improve customer service and operational efficiency. 
+Created a database for a restaurant management system to improve customer service and operational efficiency.
 
 **Technologies:**
 - Oracle SQL
 - Docker
 
 **Key Features:**
-- SRS documentation needed to reference data requirements 
+- SRS documentation needed to reference data requirements
 - Managed customer reservations and walk-ins
 - Handled staff schedules and roles
 - Stored order details, payments, and transactions
@@ -51,6 +54,54 @@ Created a database for a restaurant management system to improve customer servic
 
 **Outcomes:**
 Provided a structured system for managing restaurant operations, enhancing service and offering operational insights through data analytics.
+
+**File Reference:**
+- ### Election Contribution Analysis Data Warehouse
+
+**Description:**
+Developed a data warehouse to analyze election contributions in Texas, New York, and California, enhancing data retrieval speed and integrity.
+
+**Technologies:**
+- PostgreSQL
+- Docker
+- Hadoop
+- KNIME
+- Hive, Apache Pig
+
+**Key Features:**
+- Designed a star schema with fact and dimension tables
+- Implemented efficient ETL processes
+- Compared performance between traditional data warehouses and Hadoop
+- Analyzed political contribution trends and key demographics
+
+**Outcomes:**
+Revealed significant patterns in contributions, demonstrating Hadoop's efficiency with large data and relational databases' querying power.
+
+**File Reference:**
+- `DB for Presidential data.pdf`
+
+### Next-Gen Restaurant Management System
+
+**Description:**
+Created a database for a restaurant management system to improve customer service and operational efficiency.
+
+**Technologies:**
+- Oracle SQL
+- Docker
+
+**Key Features:**
+- SRS documentation needed to reference data requirements
+- Managed customer reservations and walk-ins
+- Handled staff schedules and roles
+- Stored order details, payments, and transactions
+- Ensured data integrity through normalization and key constraints
+
+**Outcomes:**
+Provided a structured system for managing restaurant operations, enhancing service and offering operational insights through data analytics.
+
+**File Reference:**
+- `Restaurant DB write up.pdf`
+- `SRS document.pdf`
 
 ### Breast Cancer Model Evaluation
 
@@ -60,8 +111,8 @@ Evaluated various machine learning models to predict breast cancer, focusing on 
 **Technologies:**
 - Logistic Regression
 - Decision Tree
-- Neural Network 
-- Cluster Heatmap Analysis
+- Neural Network
+- Naive Bayes
 
 **Key Features:**
 - Compared model accuracies
@@ -70,6 +121,9 @@ Evaluated various machine learning models to predict breast cancer, focusing on 
 
 **Outcomes:**
 Logistic Regression provided the highest accuracy, while Decision Tree identified HOMA as the most important variable. Highlighted the relationship of Glucose, Insulin, and HOMA with breast cancer.
+
+**File Reference:**
+- `Model evaluation for Breast Cancer.ipynb`
 
 ### Clustering Algorithm Evaluation
 
@@ -86,6 +140,50 @@ Evaluated the performance of Agglomerative Clustering using various distance mea
 
 **Outcomes:**
 Determined the best distance measure and clustering method for optimal results.
+
+**File Reference:**
+- `Evaluation_of_Clustering_Alg.ipynb`
+
+### Breast Cancer Model Evaluation
+
+**Description:**
+Evaluated various machine learning models to predict breast cancer, focusing on accuracy and variable importance.
+
+**Technologies:**
+- Logistic Regression
+- Decision Tree
+- Neural Network
+- Cluster Heatmap Analysis
+
+**Key Features:**
+- Compared model accuracies
+- Identified important variables using Decision Trees
+- Analyzed variable relationships with classification using heatmaps
+
+**Outcomes:**
+Logistic Regression provided the highest accuracy, while Decision Tree identified HOMA as the most important variable. Highlighted the relationship of Glucose, Insulin, and HOMA with breast cancer.
+
+**File Reference:**
+- `Model evaluation for Breast Cancer.ipynb`
+
+### Clustering Algorithm Evaluation
+
+**Description:**
+Evaluated the performance of Agglomerative Clustering using various distance measures and clustering methods.
+
+**Technologies:**
+- Agglomerative Clustering
+- Cohesion Calculation
+
+**Key Features:**
+- Assessed clustering results using different distance measures
+- Implemented workflow to calculate cohesion
+
+**Outcomes:**
+Determined the best distance measure and clustering method for optimal results.
+
+**File Reference:**
+- `Evaluation_of_Clustering_Alg.ipynb`
 
 ## Contact Information
 - **Email**: [afolabiisiaka22@gmail.com](mailto:afolabiisiaka22@gmail.com)

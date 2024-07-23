@@ -100,7 +100,25 @@ Determined the best distance measure and clustering method for optimal results.
 **File Reference:**
 - `Evaluation_of_Clustering_Alg.ipynb`
 - `Lesson_11_DAAN_862_Assignment (1).ipynb`
+  
+### The Commonality of Top and Worst Yu-Gi-Oh! Cards
 
+**Description:**
+Analyzed characteristics distinguishing top-performing Yu-Gi-Oh! cards from the worst using metadata and Win-Loss statistics.
+
+**Technologies:**
+- Python, BeautifulSoup, Pandas, MySQL, SQL, Matplotlib, Seaborn
+
+**Key Features:**
+- Scraped and cleaned data from Kaggle and YGOScope
+- Stored data in MySQL and executed queries
+- Visualized correlations between card attributes and win rates
+
+**Outcomes:**
+Identified key attributes for successful cards and provided data-driven recommendations for deck construction.
+
+**File Reference:**
+[The commonality of Top and Worst Yu-Gi-Oh! Cards by Afolabiisiaka on Medium](https://medium.com/@afolabiisiaka22/the-commonality-of-top-and-worst-yu-gi-oh-cards-7c13ebb74d9b)
 ## Contact Information
 - **Email**: [afolabiisiaka22@gmail.com](mailto:afolabiisiaka22@gmail.com)
 - **LinkedIn**: [My Linkedin](https://www.linkedin.com/in/afolabi-isiaka-7674021a4/)

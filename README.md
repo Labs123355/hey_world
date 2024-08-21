@@ -125,12 +125,10 @@ Identified key attributes for successful cards and provided data-driven recommen
 ### BFA Enrollment and Curriculum with Data Analysis
 
 **Description:**
-Conducted an analysis of enrollment trends and curriculum structure for the Bachelor of Fine Arts (BFA) program at the University of Diploma Printing in Romanigstan. The project aimed to revitalize the program by aligning it with student interests and contemporary academic trends.
+Analyzed enrollment trends and curriculum structure for the Bachelor of Fine Arts (BFA) program at the University of Diploma Printing in Romanigstan. The project aimed to revitalize the program by aligning it with student interests and contemporary academic trends.
 
 **Technologies:**
 - Python (data analytics)
-- Scikit-learn (machine learning)
-- Matplotlib (visualization)
 
 **Key Features:**
 - Preprocessed and cleaned five years of enrollment and course data.
@@ -142,7 +140,8 @@ Conducted an analysis of enrollment trends and curriculum structure for the Bach
 The analysis provided actionable insights leading to the recommendation of a curriculum redesign, including a reduction in total credit hours from 39 to 33 and the grouping of electives into three distinct concentration areas.
 
 **File Reference:**
-- `Afolabi_Isiaka DAAN 545 Final Project.docx`
+- `Afolabi_Isiaka DAAN 545 Final Project.pdf`
+- `DAAN_545_project.ipynb`
 
 ---
 

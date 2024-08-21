@@ -35,7 +35,7 @@ Revealed significant patterns in contributions, demonstrating Hadoop's efficienc
 
 **File Reference:**
 - `DB for Presidential data.pdf`
-
+---
 ### Next-Gen Restaurant Management System
 
 **Description:**
@@ -58,7 +58,7 @@ Provided a structured system for managing restaurant operations, enhancing servi
 **File Reference:**
 - `Restaurant DB write up.pdf`
 - `SRS Document.pdf`
-
+---
 ### Breast Cancer Model Evaluation
 
 **Description:**
@@ -80,7 +80,7 @@ Logistic Regression provided the highest accuracy, while Decision Tree identifie
 
 **File Reference:**
 - `Model evaluation for Breast Cancer.ipynb`
-
+---
 ### Clustering Algorithm Evaluation
 
 **Description:**
@@ -100,7 +100,7 @@ Determined the best distance measure and clustering method for optimal results.
 **File Reference:**
 - `Evaluation_of_Clustering_Alg.ipynb`
 - `Lesson_11_DAAN_862_Assignment (1).ipynb`
-  
+---
 ### The Commonality of Top and Worst Yu-Gi-Oh! Cards
 
 **Description:**
@@ -119,6 +119,34 @@ Identified key attributes for successful cards and provided data-driven recommen
 
 **File Reference:**
 [The commonality of Top and Worst Yu-Gi-Oh! Cards by Afolabiisiaka on Medium](https://medium.com/@afolabiisiaka22/the-commonality-of-top-and-worst-yu-gi-oh-cards-7c13ebb74d9b)
+
+---
+
+### BFA Enrollment and Curriculum with Data Analysis
+
+**Description:**
+Conducted an analysis of enrollment trends and curriculum structure for the Bachelor of Fine Arts (BFA) program at the University of Diploma Printing in Romanigstan. The project aimed to revitalize the program by aligning it with student interests and contemporary academic trends.
+
+**Technologies:**
+- Python (data analytics)
+- Scikit-learn (machine learning)
+- Matplotlib (visualization)
+
+**Key Features:**
+- Preprocessed and cleaned five years of enrollment and course data.
+- Identified discrepancies between the course catalog and actual enrollments, uncovering 139 unmatched courses.
+- Utilized K-means clustering to group elective courses into coherent concentration areas.
+- Recommended reducing total credit hours and streamlining elective offerings.
+
+**Outcomes:**
+The analysis provided actionable insights leading to the recommendation of a curriculum redesign, including a reduction in total credit hours from 39 to 33 and the grouping of electives into three distinct concentration areas.
+
+**File Reference:**
+- `Afolabi_Isiaka DAAN 545 Final Project.docx`
+
+---
+
+This format aligns with the structure you requested, emphasizing the project's core aspects and outcomes.
 ## Contact Information
 - **Email**: [afolabiisiaka22@gmail.com](mailto:afolabiisiaka22@gmail.com)
 - **LinkedIn**: [My Linkedin](https://www.linkedin.com/in/afolabi-isiaka-7674021a4/)
